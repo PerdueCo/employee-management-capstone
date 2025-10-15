@@ -302,4 +302,5 @@ This project demonstrates the ability to work with real-world legacy systems tha
 - [ ] Implement Entity Framework Core
 - [ ] Add unit tests (xUnit)
 - [ ] Azure cloud deployment
-- [ ] CI/CD
+- [ ] CI/CD#   e m p l o y e e - m a n a g e m e n t - c a p s t o n e  
+ 
